@@ -1,11 +1,11 @@
 <h1>Стартовый шаблон для верстки сайтов (Gulp)</h1>
 
-<h2>How to use OptimizedHTML</h2>
+<h2>Как использовать</h2>
 
 <ol>
-	<li><a href="https://github.com/nv-vasilenkov/starl-html-template.git">Скачать щаблон</a>
+	<li>Скачать
 	<li>Установить node модули: <strong>npm i</strong>;</li>
-	<li>Запустить шаблон: <strong>gulp</strong>.</li>
+	<li>Запустить: <strong>gulp</strong>.</li>
 </ol>
 
 <h2>Gulp tasks:</h2>
